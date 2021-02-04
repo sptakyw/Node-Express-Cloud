@@ -1,0 +1,23 @@
+{
+  "name": "Node-Express-Cloud",
+  "version": "1.0.0",
+  "description": "Test Deploy Node to Cloud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sptakyw/Node-Express-Cloud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sptakyw/Node-Express-Cloud/issues"
+  },
+  "homepage": "https://github.com/sptakyw/Node-Express-Cloud#readme",
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
